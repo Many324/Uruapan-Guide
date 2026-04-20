@@ -13,7 +13,9 @@
     "lat": 19.419905,
     "lng": -102.0489956,
     "placeId": "ChIJIdoI8UHiLYQRRpBrVX_88kk",
-    "videos": ["https://vm.tiktok.com/ZNRqmsWSS/"]
+    "videos": [
+      { "url": "https://vm.tiktok.com/ZNRqmsWSS/", "label": "Uruapan, la casa de todos" }
+    ]
   },
   {
     "id": "cocina-m",
